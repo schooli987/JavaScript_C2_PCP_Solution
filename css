@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  transition: background-color 0.5s ease;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  transition: background-color 0.5s ease;
+}
